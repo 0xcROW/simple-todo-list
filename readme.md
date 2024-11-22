@@ -1,0 +1,1 @@
+Simple to-do list project to study how JavaScript works in front-end and how it manipulates HTML elements.
